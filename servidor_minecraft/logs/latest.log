@@ -1,0 +1,109 @@
+[23Nov2024 21:21:21.118] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23Nov2024 21:21:21.124] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[23Nov2024 21:21:21.241] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Nov2024 21:21:21.302] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-2.0.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Nov2024 21:21:21.535] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.0.5/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[23Nov2024 21:21:21.559] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.0.5/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[23Nov2024 21:21:21.561] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.0.5/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[23Nov2024 21:21:21.562] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-2.0.5/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[23Nov2024 21:21:21.682] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[23Nov2024 21:21:23.287] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23Nov2024 21:21:30.886] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[23Nov2024 21:21:30.889] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[23Nov2024 21:21:31.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Nov2024 21:21:32.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[23Nov2024 21:21:33.558] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Nov2024 21:21:34.779] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-2.0.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[23Nov2024 21:21:34.780] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-2.0.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[23Nov2024 21:21:34.865] [main/INFO] [net.minecraft.server.packs.repository.FolderRepositorySource/]: Found non-pack entry './world/datapacks/Skyblock Classic Edition Hardcore', ignoring
+[23Nov2024 21:21:34.866] [main/INFO] [net.minecraft.server.packs.repository.FolderRepositorySource/]: Found non-pack entry './world/datapacks/Skyblock Classic Edition Structures', ignoring
+[23Nov2024 21:21:36.229] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/versions/changelog/Changelog.url, ignoring
+[23Nov2024 21:21:36.244] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/versions/changelog/Github.url, ignoring
+[23Nov2024 21:21:36.245] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/map.png, ignoring
+[23Nov2024 21:21:36.275] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/Logo.png, ignoring
+[23Nov2024 21:21:36.276] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/translation_pack.png, ignoring
+[23Nov2024 21:21:36.276] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/icon.png, ignoring
+[23Nov2024 21:21:36.276] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/icon_hardcore.png, ignoring
+[23Nov2024 21:21:36.278] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/test_pack.png, ignoring
+[23Nov2024 21:21:36.278] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/Original.png, ignoring
+[23Nov2024 21:21:36.279] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/Icons/icon_structures.png, ignoring
+[23Nov2024 21:21:36.282] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/map_0.dat, ignoring
+[23Nov2024 21:21:36.282] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/story/65110991051011101163267105116121.png, ignoring
+[23Nov2024 21:21:36.292] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/level data/level.dat_old, ignoring
+[23Nov2024 21:21:36.295] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/level data/map.png, ignoring
+[23Nov2024 21:21:36.295] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/level data/level.dat, ignoring
+[23Nov2024 21:21:36.296] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/level data/map_0.dat, ignoring
+[23Nov2024 21:21:36.296] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Invalid path in pack: skyblock:functions/misc/Media/level data/session.lock, ignoring
+[23Nov2024 21:21:36.898] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[23Nov2024 21:21:36.899] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function skyblock:skyblock_setup
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 51: Incorrect argument for command at position 9: gamerule <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 51: Incorrect argument for command at position 9: gamerule <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23Nov2024 21:21:36.901] [main/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:tick as it is missing following references: skyblock:skyblock_setup (from file/Skyblock Classic Edition)
+[23Nov2024 21:21:37.037] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[23Nov2024 21:21:37.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Nov2024 21:21:37.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Nov2024 21:21:37.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Nov2024 21:21:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Nov2024 21:21:37.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Nov2024 21:21:37.795] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Nov2024 21:21:37.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Nov2024 21:21:38.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Nov2024 21:21:41.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.709] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.714] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.715] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:41.776] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Nov2024 21:21:42.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[23Nov2024 21:21:42.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[23Nov2024 21:21:43.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[23Nov2024 21:21:43.360] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5085 ms
+[23Nov2024 21:21:43.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.456s)! For help, type "help"
+[23Nov2024 21:21:43.396] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Nov2024 21:23:17.127] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dargnelx is 96f5f93e-5126-48d7-b0a7-43e3b0edf622
+[23Nov2024 21:23:18.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dargnelx[/100.88.100.53:56479] logged in with entity id 2 at (4.555800822911518, 63.0, -0.46459403101259233)
+[23Nov2024 21:23:18.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx joined the game
+[23Nov2024 21:56:04.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx has made the advancement [A Seedy Place]
+[23Nov2024 22:03:56.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx has made the advancement [Monster Hunter]
+[23Nov2024 22:11:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx tried to swim in lava
+[23Nov2024 22:13:51.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dargnelx lost connection: Timed out
+[23Nov2024 22:13:51.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx left the game
+[23Nov2024 22:17:48.259] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dargnelx is 96f5f93e-5126-48d7-b0a7-43e3b0edf622
+[23Nov2024 22:17:49.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dargnelx[/100.88.100.53:58862] logged in with entity id 903 at (9.097758788015357, 36.14172389838146, 7.615083671362961)
+[23Nov2024 22:17:49.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx joined the game
+[23Nov2024 22:22:58.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx was blown up by Creeper
+[23Nov2024 22:29:50.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dargnelx lost connection: Timed out
+[23Nov2024 22:29:50.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx left the game
+[23Nov2024 22:37:15.232] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dargnelx is 96f5f93e-5126-48d7-b0a7-43e3b0edf622
+[23Nov2024 22:37:16.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dargnelx[/100.88.100.53:62543] logged in with entity id 1568 at (4.5900270081339105, 63.0, 0.341550579334059)
+[23Nov2024 22:37:16.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx joined the game
+[23Nov2024 22:38:56.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx tried to swim in lava
+[23Nov2024 22:41:45.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx fell out of the world
+[23Nov2024 22:55:29.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dargnelx lost connection: Disconnected
+[23Nov2024 22:55:29.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dargnelx left the game
+[23Nov2024 22:55:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Nov2024 22:55:50.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Nov2024 22:55:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Nov2024 22:55:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Nov2024 22:55:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Skyblock Classic Edition]'/minecraft:overworld
+[23Nov2024 22:55:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Skyblock Classic Edition]'/minecraft:the_end
+[23Nov2024 22:55:50.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Skyblock Classic Edition]'/minecraft:the_nether
+[23Nov2024 22:55:50.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Nov2024 22:55:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Nov2024 22:55:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Nov2024 22:55:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
